@@ -13,3 +13,5 @@ Create a repository in your GitHub account. Put your solution there. In the read
 Make sure you have a TestProgram that will validate the proposed refactored codes.
 
 # UML Diagram
+
+![Blank diagram (15)](https://github.com/BabyleneRodriguez/softEng2_LabAss6_solidWithDesignPattern/assets/142875371/37be304e-e7df-4198-b327-a2ab5dbcc5d0)
